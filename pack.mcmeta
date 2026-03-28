@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": [
+      {
+        "text": "Hails Name Colors",
+        "color": "light_purple"
+      },
+      {
+        "text": "\nPersistent solid name colors for ATM10 / MC 1.21.1",
+        "color": "yellow"
+      }
+    ]
+  }
+}

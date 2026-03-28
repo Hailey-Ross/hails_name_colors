@@ -1,0 +1,3 @@
+scoreboard players set @s hails_pick 0
+
+tellraw @s [{"text":"\n=== Hails Name Colors: Custom ===\n","color":"gold","bold":true},{"text":"Custom hex input is not enabled in this datapack build yet. Vanilla teams can only apply the 16 built-in name colors, so true custom hex and true gradients need a mod-backed formatter.\n\n","color":"yellow"},{"text":"Use Solids","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger hails_pick set 101"}},{"text":"  \u2022  ","color":"dark_gray"},{"text":"Use Gradients","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger hails_pick set 102"}},{"text":"\n\n"},{"text":"Back","color":"green","clickEvent":{"action":"run_command","value":"/trigger hails_pick set 100"}}]

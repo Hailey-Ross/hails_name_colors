@@ -1,0 +1,24 @@
+execute if score @s hails_pick matches 99 run function hails_namecolors:apply/reset
+execute if score @s hails_pick matches 1 run function hails_namecolors:apply/black
+execute if score @s hails_pick matches 2 run function hails_namecolors:apply/dark_blue
+execute if score @s hails_pick matches 3 run function hails_namecolors:apply/dark_green
+execute if score @s hails_pick matches 4 run function hails_namecolors:apply/dark_aqua
+execute if score @s hails_pick matches 5 run function hails_namecolors:apply/dark_red
+execute if score @s hails_pick matches 6 run function hails_namecolors:apply/dark_purple
+execute if score @s hails_pick matches 7 run function hails_namecolors:apply/gold
+execute if score @s hails_pick matches 8 run function hails_namecolors:apply/gray
+execute if score @s hails_pick matches 9 run function hails_namecolors:apply/dark_gray
+execute if score @s hails_pick matches 10 run function hails_namecolors:apply/blue
+execute if score @s hails_pick matches 11 run function hails_namecolors:apply/green
+execute if score @s hails_pick matches 12 run function hails_namecolors:apply/aqua
+execute if score @s hails_pick matches 13 run function hails_namecolors:apply/red
+execute if score @s hails_pick matches 14 run function hails_namecolors:apply/light_purple
+execute if score @s hails_pick matches 15 run function hails_namecolors:apply/yellow
+execute if score @s hails_pick matches 16 run function hails_namecolors:apply/white
+execute if score @s hails_pick matches 21 run function hails_namecolors:apply/sunset
+execute if score @s hails_pick matches 22 run function hails_namecolors:apply/ocean
+execute if score @s hails_pick matches 23 run function hails_namecolors:apply/galaxy
+execute if score @s hails_pick matches 24 run function hails_namecolors:apply/forest
+execute if score @s hails_pick matches 25 run function hails_namecolors:apply/candy
+execute if score @s hails_pick matches 26 run function hails_namecolors:apply/ember
+scoreboard players set @s hails_pick 0
