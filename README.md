@@ -8,9 +8,9 @@ Player command:
 
 Menu notes:
 - Solids contains the 16 vanilla team colors.
-- Gradients contains themed presets like Sunset, Ocean, Galaxy, Forest, Candy, and Ember.
-- Because vanilla teams can only apply one color to player names, gradient presets save a matching fallback color for persistence.
-- The Custom page is included as a placeholder for a future mod-backed hex workflow.
+- [WIP] Gradients contains themed presets like Sunset, Ocean, Galaxy, Forest, Candy, and Ember.
+  - This is a placeholder for the time being and does not work properly.
+- [WIP] The Custom page is included as a placeholder for a future mod-backed hex workflow.
 
 Admin notes:
 - After adding or replacing the pack, run /reload once.
